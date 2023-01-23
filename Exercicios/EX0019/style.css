@@ -1,0 +1,32 @@
+@charset "UTF-08";
+/* en html é ID = em CSS é #
+    em HTM é class = em CSS é .
+*/
+
+body{
+    background-color: rgb(130, 244, 130);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(12, 12, 12);
+
+}
+h1#principal{
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+
+    color: rgb(81, 81, 245);
+}
+.basico{
+    color: hsl(292, 72%, 65%);
+    font-weight: bold;
+    
+}
+.interdiario{
+    color: #f9ff54
+}
+.avancado{
+    color: #fb4545
+}
